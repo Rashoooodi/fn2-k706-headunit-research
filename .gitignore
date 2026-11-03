@@ -1,0 +1,25 @@
+# Device images, extracted vendor packages, and local capture files
+*.apk
+*.apks
+*.aab
+*.dex
+*.odex
+*.vdex
+*.jar
+*.so
+*.img
+*.bin
+*.key
+*.pem
+*.p12
+*.keystore
+
+# Local device state and raw captures
+device-dumps/
+raw-captures/
+private/
+
+# Host/editor files
+.DS_Store
+.idea/
+*.iml

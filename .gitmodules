@@ -1,0 +1,6 @@
+[submodule "apps/crab-ect-bridge"]
+	path = apps/crab-ect-bridge
+	url = https://github.com/Rashoooodi/crab-ect-bridge.git
+[submodule "apps/ytmusic-bridge"]
+	path = apps/ytmusic-bridge
+	url = https://github.com/Rashoooodi/ytmusic-bridge.git
